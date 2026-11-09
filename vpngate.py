@@ -56,7 +56,7 @@ DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/ct?ips=6&port=443"
 # 占位符检测：命中任意一个就认为用户还没配置
 PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
-# 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
+
 
 
 DATA_CENTER_ORG_KEYWORDS = [
